@@ -68,5 +68,5 @@ most-efficient is up to you.
 ```
 
 ### Other samples: 
-1. **Palindrome** - determine if word is palindrome.
-2. **Hex game** - another implementation of game for terminal using C++17 for more info about game [see](https://en.wikipedia.org/wiki/Hex_(board_game))
+1. **Hex game** - another implementation of game for terminal using C++17 for more info about game [see](https://en.wikipedia.org/wiki/Hex_(board_game))
+2. **Palindrome** - determine if word is palindrome.
