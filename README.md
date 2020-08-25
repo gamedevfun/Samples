@@ -1,7 +1,7 @@
 ## Samples
 Some code samples from took courses and coding interview tasks
   
-###Coding interview test: 
+### Coding interview test: 
 It using test framework [Catch](https://github.com/catchorg/Catch2) https://github.com/catchorg/Catch2
 
 
@@ -67,6 +67,6 @@ most-efficient is up to you.
     	}
 ```
 
-###Other samples: 
+### Other samples: 
 1. **Palindrome** - determine if word is palindrome.
 2. **Hex game** - another implementation of game for terminal using C++17 for more info about game [see](https://en.wikipedia.org/wiki/Hex_(board_game))
