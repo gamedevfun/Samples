@@ -30,8 +30,7 @@ of A.
     - Doors aren’t necessarily bidirectional. If A can be reached from B, B might not be
 reachable from A.
     - Rooms might connect to themselves.    
-a. Write a class or struct declaration that shows the structure of a Room. Include a constructor
-(for classes) or initialization function (for structs).  
+a. Write a class declaration that shows the structure of a Room. 
 b. Write a function to connect a new Room to an existing Room.  
 c. Write a function to determine if any path exists between a starting room and an ending room
 with a given name. You may add additional members and methods to your Room class or struct
