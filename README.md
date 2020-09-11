@@ -1,5 +1,5 @@
 ## Samples
-Some code samples from took courses and coding interview tasks
+Some code samples from taken courses and coding interview tasks
   
 ### Coding interview test: 
 It using test framework [Catch](https://github.com/catchorg/Catch2) https://github.com/catchorg/Catch2
